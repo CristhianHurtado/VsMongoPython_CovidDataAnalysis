@@ -1,0 +1,6 @@
+When you execute the solution inside the final project folder. Creates the sql, the new arranged JSON and the collection in Robo 3T
+
+Thanks for teaching us.
+
+Camilo Alejandro Arciniegas Gonzales - 4385192
+Cristhian Hurtado Copete - 4420796
